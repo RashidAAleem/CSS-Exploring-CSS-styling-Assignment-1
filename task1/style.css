@@ -8,7 +8,7 @@ button{
     border-radius: 10px;
     border: none;
     background-color: rgb(227, 179, 130);
-    box-shadow: ;
+    /* box-shadow: ; */
 }
 button:hover{
     background-color: rgb(12, 219, 143);
