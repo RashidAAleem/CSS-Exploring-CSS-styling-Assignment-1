@@ -1,22 +1,45 @@
 body{
-    background-color: beige;
+    background-color: rgb(193, 193, 191);
+    /* font-size: ; */
 }
 h1{
     text-align: center;
     text-decoration: underline;
+   color: rgb(127, 20, 20);
+   background-color: rgba(249, 173, 208, 0.5);
 }
-.main{
-background-color: blue;
-color: azure;
+.line1{
+/* background-color: blue; */
+color: rgb(51, 120, 120);
 padding: 10px;
+text-align: center;
+
 }
-.second{
-    color: rgba(162, 37, 197, 0.8);
+ul{
+    display: inline-block;
 }
-.third{
-background-color: yellow;
+li{
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+    color: rgb(115, 34, 2);
+    background-color: rgb(240, 240, 158);
+    
+}
+li:hover{
+    color: aqua;
+    
+}
+
+.line2{
+    color: rgba(174, 126, 220, 0.9);
+}
+.line3{
+background-color: rgb(254, 253, 196);
 color: peru;
 }
-.fourth{
-    background-color: rgb(139, 213, 26);
+.line4{
+    /* background-color: rgb(139, 213, 26); */
+    color: rgba(133, 130, 130, 0.9);
 }
+

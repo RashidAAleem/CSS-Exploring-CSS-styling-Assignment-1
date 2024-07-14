@@ -1,0 +1,37 @@
+body{
+    background-color: beige;
+}
+
+button{
+
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(227, 179, 130);
+    box-shadow: ;
+}
+button:hover{
+    background-color: rgb(12, 219, 143);
+    color: rgb(255, 248, 248);
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.main{
+background-color: blue;
+color: azure;
+padding: 10px;
+}
+.second{
+    color: rgba(162, 37, 197, 0.8);
+}
+.third{
+background-color: yellow;
+color: peru;
+}
+.fourth{
+    background-color: rgb(139, 213, 26);
+}
+
