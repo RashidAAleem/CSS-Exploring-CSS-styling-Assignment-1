@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(193, 193, 191);
+    /* font-size: ; */
+}
+button{
+
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(227, 179, 130);
+    box-shadow: ;
+}
+button:hover{
+    background-color: rgb(12, 219, 143);
+    color: rgb(255, 248, 248);
+    
+}
+
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+   color: rgb(127, 20, 20);
+   background-color: rgba(249, 173, 208, 0.5);
+}
+.line1{
+/* background-color: blue; */
+color: rgb(136, 151, 151);
+padding: 10px;
+text-align: center;
+
+}
+ul{
+    display: inline-block;
+}
+li{
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+    color: rgb(115, 34, 2);
+    background-color: rgb(240, 240, 158);
+    
+}
+li:hover{
+    color: aqua;
+    
+}
+
+.line2{
+    color: rgba(174, 126, 220, 0.9);
+}
+.line3{
+background-color: rgb(254, 253, 196);
+color: peru;
+}
+.line4{
+    /* background-color: rgb(139, 213, 26); */
+    color: rgba(133, 130, 130, 0.9);
+}
+
